@@ -19,7 +19,7 @@ sleep_time = 10
 
 # Variables for Logging
 logging.basicConfig()
-LOGGER = logging.getLogger("Egencia Public API")
+LOGGER = logging.getLogger("Ravy Public API")
 LOGGER.setLevel(logging.DEBUG)
 
 #other variables
