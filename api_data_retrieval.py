@@ -386,4 +386,4 @@ if __name__ == '__main__':
             write_to_csv_file(result)
         LOGGER.info("Successfully retrieved data")
     else:
-        LOGGER.info("No results found")
+        LOGGER.info("No results found ")
