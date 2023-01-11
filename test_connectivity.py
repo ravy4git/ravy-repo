@@ -9,3 +9,5 @@ try:
 except:
     print("Connection to",host,":",port,"failed")
     
+#%sh
+#nc -vz "consolidated-northeuropec2-prod-metastore-1.mysql.database.azure.com" 3306
